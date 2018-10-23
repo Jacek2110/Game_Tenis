@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: darkgray;
+
+}
+
+.gra {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+}
+
+canvas {
+    border: 3px solid #fff;
+    cursor: none;
+}
+
+p {
+    padding: 0 0.3em;
+    font-size: 5em;
+    color: #1187be;
+    text-align: center;
+}
